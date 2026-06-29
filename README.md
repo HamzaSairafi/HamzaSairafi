@@ -1,6 +1,6 @@
 **Digital Craftsman (DataScientist/GameDevolper/WebDevolper)**
 
-Data Scientis currently pursuing a Bachelor’s degree in Computer Science at Umm Al-Qura University (UQU). Skilled in data collection, cleaning, visualization, and statistical analysis using modern tools and programming languages. Passionate about transforming data into actionable insights and exploring the integration of Artificial Intelligence (AI) and Machine Learning (ML) to enhance decision-making and predictive analytics
+Data Scientist currently pursuing a Bachelor’s degree in Computer Science at Umm Al-Qura University (UQU). Skilled in data collection, cleaning, visualization, and statistical analysis using modern tools and programming languages. Passionate about transforming data into actionable insights and exploring the integration of Artificial Intelligence (AI) and Machine Learning (ML) to enhance decision-making and predictive analytics
 
 ---
 
